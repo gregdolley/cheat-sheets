@@ -1,5 +1,7 @@
 # Git
 
+WIP... not complete yet.
+
 ## The Basics
 
 |Command|Description|
