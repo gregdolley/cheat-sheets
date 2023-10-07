@@ -25,6 +25,13 @@ This is a WIP and not complete yet...
         <td valign="top">Ordered List</td><td><ol><li>First item</li><li>Second item</li><li>Third item</li></ol></td>
     </tr>
     <tr>
+        <td valign="top">Unordered List</td><td><ul><li>First item</li><li>Second item</li><li>Third item</li></ul>(Replace the bullet char above with either: "-", "*", or a "+" symbol. Like this:<br/><br/>
+        + Item 1<br/>
+        + Item 2<br/>
+        + Item 3<br/>
+        </td>
+    </tr>
+    <tr>
         <td>Horizontal divider</td><td>---</td>
     </tr>
     <tr>
