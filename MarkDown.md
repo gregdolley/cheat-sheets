@@ -4,7 +4,7 @@ This is a WIP and not complete yet...
 
 ## The Basics
 
-<table>
+<table style="width: 100%">
     <th>Element</th><th>MD Syntax</th>
     <tr>
         <td>Heading 1</td><td>#</td>
@@ -52,7 +52,7 @@ This is a WIP and not complete yet...
 
 These elements are not supported by all Markdown applications.
 
-<table>
+<table style="width: 100%">
     <th>Element</th><th>MD Syntax</th>
     <tr>
         <td valign="top">Fenced code block or terminal output <br/><br/>(With language specific coloring)</td><td>```javascript<br/>let input = get_user_input();<br/>console.log("Received:", input);<br/>```
