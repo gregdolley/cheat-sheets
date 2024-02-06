@@ -90,9 +90,3 @@ These elements are not supported by all Markdown applications.
         </td>
     </tr>
 </table>
-
-The Latex math block example above would result in the following math text (assuming your Markdown reader supports it):
-
-$$
-f\left(a\right) = \sum_{n=a}^{\infty} n
-$$
