@@ -82,7 +82,12 @@ These elements are not supported by all Markdown applications.
         <td valign="top">Task list</td><td>- [x] Write code.<br/>- [ ] Run unit tests.<br/>- [ ] Write documentation.</td>
     </tr>
     <tr>
-        <td valign="top">Latex math block</td><td>$$<br/>f\left(a\right) = \sum_{n=a}^{\infty} n<br/>$$</td>
+        <td valign="top">Latex math block</td><td>$$<br/>Math Latex code here. Note: the top double-dollar sign ("$$") must be preceded by a blank line. <br/>$$
+        <br/><br/>
+        Example:
+        <br/><br/>
+        $$<br/>f\left(a\right) = \sum_{n=a}^{\infty} n<br/>$$
+        </td>
     </tr>
 </table>
 
