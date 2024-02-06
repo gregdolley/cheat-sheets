@@ -35,10 +35,10 @@ This is a WIP and not complete yet...
         <td>Horizontal divider</td><td>---</td>
     </tr>
     <tr>
-        <td>Link</td><td>[title](https://www.example.com)</td>
+        <td>Text link</td><td>[display text for link](https://www.URL-target-for-link.com)</td>
     </tr>
     <tr>
-        <td>Image</td><td>![ALT text](image.jpg)</td>
+        <td>Image</td><td>![ALT text](path_to_image.jpg "Optional title attribute")</td>
     </tr>
     <tr>
         <td>Inline code</td><td>`code here`</td>
@@ -55,7 +55,7 @@ These elements are not supported by all Markdown applications.
 <table>
     <th>Element</th><th>MD Syntax</th>
     <tr>
-        <td valign="top">Fenced code block or terminal output</td><td>```javascript<br/>let input = get_user_input();<br/>console.log("Received:", input);<br/>```
+        <td valign="top">Fenced code block or terminal output <br/><br/>(With language specific coloring)</td><td>```javascript<br/>let input = get_user_input();<br/>console.log("Received:", input);<br/>```
         <br/><br/>```bash<br/>User@domain:~$ la -al --color<br/>```</td>
     </tr>
     <tr>
