@@ -41,7 +41,15 @@ This is a WIP and not complete yet...
         <td>Image</td><td>![ALT text](path_to_image.jpg "Optional title attribute")</td>
     </tr>
     <tr>
-        <td>Inline code</td><td>`code here`</td>
+        <td>Inline code</td><td>`surround code with backticks`</td>
+    </tr>
+    <tr>
+        <td>Code block</td><td  style="text-align: justify">Simply indent every line of the
+block by at least four spaces or one tab. Also, precede the block with a blank line.<br />
+<br />
+One caveat: the above holds true for code blocks which are <b>not</b> nested inside some other markdown  block type. An example of nesting would be a code block sitting inside a list item block.<br />
+<br  /> Normally, any block that needs to be appended to a list item needs to be tab-indented by one (or four spaces) in order to be considered part of the list item and not a new block outside the list. Code blocks are an exception - instead of indenting them by one, they must be indented by <i>two</i> tabs (or eight spaces) in order to be considered part of the parent list item.
+    </td>
     </tr>
     <tr>
         <td>Block Quotes</td><td> &gt;&nbsp;Example using<br/>&gt;&nbsp;block quoted text</td>
