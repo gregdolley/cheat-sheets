@@ -66,7 +66,7 @@ These elements are not supported by all Markdown applications.
         <td valign="top">Fenced code block or terminal output <br/><br/>(With language specific coloring)</td>
         <td>```javascript
         <br/>print("Starts with 3 backticks followed by the language identifier.");
-        <br />printf("Code starts on a new line after the l;language identifier.");
+        <br />printf("Code starts on a new line after the language identifier.");
         <br />printf("Code block ends with threee backticks on a new line after the last line of code.");
         <br/>```
         <br />More examples:
