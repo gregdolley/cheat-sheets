@@ -63,8 +63,18 @@ These elements are not supported by all Markdown applications.
 <table style="width: 100%">
     <th>Element</th><th>MD Syntax</th>
     <tr>
-        <td valign="top">Fenced code block or terminal output <br/><br/>(With language specific coloring)</td><td>```javascript<br/>let input = get_user_input();<br/>console.log("Received:", input);<br/>```
-        <br/><br/>```bash<br/>User@domain:~$ la -al --color<br/>```</td>
+        <td valign="top">Fenced code block or terminal output <br/><br/>(With language specific coloring)</td>
+        <td>```javascript
+        <br/>print("Starts with 3 backticks followed by the language identifier.");
+        <br />printf("Code starts on a new line after the l;language identifier.");
+        <br />printf("Code block ends with threee backticks on a new line after the last line of code.");
+        <br/>```
+        <br />More examples:
+        <br /><br />```javascript<br/>let input = get_user_input();<br/>console.log("Received:", input);
+        <br/>```
+        <br />Bash terminal output or bash script:
+        <br/><br/>```bash
+        <br/>User@domain:~$ la -al --color<br/>```</td>
     </tr>
     <tr>
         <td valign="top">Table</td><td>| Column 1 | Column 2 |<br/>
@@ -90,3 +100,13 @@ These elements are not supported by all Markdown applications.
         </td>
     </tr>
 </table>
+
+Formula test:
+
+$$
+\frac{1}{2\pi}\int_{0}^{2\pi}\frac{d\theta}{a+b\sin{\theta}}=\frac{1}{\sqrt{a^2-b^2}}
+$$
+
+$$
+f\left(x\right)=\int_{0}^{2\pi}\frac{d\theta}{a+b\sin{\theta}}=\frac{1}{\sqrt{a^2-b^2}}
+$$
