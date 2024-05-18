@@ -115,15 +115,3 @@ $$
 \lambda==\frac{v}{f}\newline
 \lambda=\frac{299,792,458m^{-s}}{2,400,000,000Hz^{-s}}=0.124914\ \text{meters}=4.92\ \text{inches}
 $$
-
-```smiles
-OC(=O)c1cc(Cl)cs1
-```
-
-\begin{equation*}
-l ( \theta ) = \sum _ { i = 1 } ^ { m } \log p ( x , \theta )
-\end{equation*}
-
-\begin{align}
-^{|\alpha|} \sqrt{x^{\alpha}} \leq(x \bullet \alpha) /|\alpha|
-\end{align}
