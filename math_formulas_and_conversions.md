@@ -36,7 +36,7 @@ TODO: put conversion.
 
 |Type|Equation Form|Notes|
 |:---|:---|:---|
-|Center-point|$\left(x - {h}\right)^2 + \left(y - {k}\right)^2 = {r}^2$|$\left(h,\space k\right)\text{= coordinates of the center of the circle (h = x, k = y)}& \\{r}\text{ = circle's radius}$|
+|Center-point|$\left(x - {h}\right)^2 + \left(y - {k}\right)^2 = {r}^2$|$\left(h,\space k\right)\text{= coordinates of the center of the circle (h = x, k = y)}{r}\text{ = circle's radius}$|
 |Standard|$ax^2+ay^2+bx+cy+d = 0$|$\text{where} \space a = 1$|
 
 In the case of a real circle (i.e. not an ellipse), the $a$ through $d$ coefficient terms would equal the following:
