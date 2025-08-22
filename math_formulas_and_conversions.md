@@ -28,6 +28,11 @@ $$
 |Slope intercept|$y = mx+b$|$\begin{cases}m = \text{slope}& \\b = \text{y-intercept of line over y-axis.}\end{cases}$|
 |Standard|$ax+by = c$|$\begin{cases}a, b = \text{the (x,y) components (a=x,b=y) of the line's normal vector}\end{cases}$|
 
+```math
+y = mx+b\quad
+\begin{cases}m = \text{slope}& \\b = \text{y-intercept of line over y-axis.}\end{cases}
+```
+
 TODO: put conversion.
 
 ## Circles
